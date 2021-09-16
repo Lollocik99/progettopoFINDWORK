@@ -23,6 +23,7 @@ Il diagramma delle classi illustra una collezione di elementi dichiarativi di un
 ![model](https://user-images.githubusercontent.com/89917969/133440282-d55510aa-0a45-4edb-99ff-2da18f8d3d52.PNG)
 
 ![service](https://user-images.githubusercontent.com/89917969/133440288-b9a78ead-b814-4d97-acb9-4b16fe97f72e.PNG)
+
 ![utils](https://user-images.githubusercontent.com/89917969/133440291-97b84dc0-ba74-4d4f-ab9f-d630dafbbe60.PNG)
 
 ## Diagrammi Sequenziali
